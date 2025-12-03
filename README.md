@@ -10,9 +10,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   &nbsp;&nbsp;
-<a href="mailto:rishabhbuchha123456789@gmail.com">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="35"/>
-</a>
+  <a href="mailto:rishabhbuchha123456789@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="35"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabh794&color=blue" alt="Profile Views" />
 </p>
 
 
@@ -28,13 +32,9 @@
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" /><br/>
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br/>
-  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres" /><br/>
-  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
 
@@ -79,12 +79,10 @@
   />
 </p>
 
-### 🐍 Contribution Snake
+
+## 🎮 Pacman Eating My Contributions
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/rishabh794/rishabh794/output/github-contribution-grid-snake.svg" 
-    alt="Contribution Snake"
-  />
+  <img src="https://pacman.abozanona.me?username=rishabh794&theme=dark" alt="Pacman animation" />
 </p>
 
 
