@@ -1,108 +1,101 @@
-<!-- Banner -->
 <h1 align="center">Hi, I'm Rishabh Buchha 👋</h1>
-<h3 align="center">SDE @ AceInt | Bootcoding Pvt. Ltd. • MERN/Next • Java • DSA</h3>
+<h3 align="center">SDE @ AceInt | Bootcoding Pvt. Ltd.</h3>
 
 <p align="center">
-  <a href="https://github.com/rishabh794">GitHub</a> •
-  <a href="https://www.linkedin.com/in/rishabh-buchha-bb997b2a7/">LinkedIn</a>
+  <a href="https://github.com/rishabh794">
+    <img src="https://skillicons.dev/icons?i=github" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rishabh-buchha-bb997b2a7/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+<a href="mailto:rishabhbuchha123456789@gmail.com">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="35"/>
+</a>
 </p>
 
----
 
 ## 🧑‍💻 About Me
-- Software Developer at **AceInt | Bootcoding Pvt. Ltd.**  
-- B.Tech CSE @ **DIT University** (GPA: **8.54/10**)  
-- Passionate about **Full-Stack Engineering, System Design, Security, and DSA**  
-- Contributor at **GSSoC'25**  
-- Cleared **SIH Internal Hackathon (120+ teams)**  
-- Finalist in **2 hackathons (100+ teams)**  
-- Solved **150+ problems** on LeetCode  
 
----
+- Software Developer at **AceInt | Bootcoding Pvt. Ltd.**
+- B.Tech CSE @ **DIT University** (GPA: **8.54/10**)  
+- Passionate about **full-stack engineering, security, performance & clean system design**  
+- GSSoC’25 contributor & **2× Hackathon Finalist**  
+- Cleared **SIH internal hackathon (120+ teams)**  
+- Solved **150+ DSA problems** on LeetCode  
+
 
 ## ⚙️ Tech Stack
-### 💻 Languages
-`C++` `C` `Java` `JavaScript` `Python` `TypeScript`
-
-### 🧩 Backend & Databases
-`Node.js` `Express.js` `PostgreSQL` `MongoDB` `NeonDB` `WebSockets`
-
-### 🎨 Frontend & UI
-`React` `Next.js` `TailwindCSS` `HTML5` `CSS3`
-
-### 🛠 Tools & Others
-`Git` `GitHub` `VS Code` `Postman` `Vercel` `Render`  
-Concepts: **DSA, OOPS, DBMS, OS**
-
----
-
-## 🚀 Highlight Projects
-
-### 🔐 **SecureSteps**
-A React SPA with authentication and guardian-user CRUD system.  
-- Supports **1,000+ profiles** in testing  
-- Real-time SOS alerts via **Leaflet + Geolocation API**  
-- Handles **50+ SOS triggers/minute**
-
-**Tech:** React, Node.js, Express, PostgreSQL, NeonDB, WebSocket, Tailwind, TypeScript  
-
----
-
-### 🔑 **SecureVault**
-Zero-knowledge password manager with AES encryption in-browser.  
-- Stores **500+ encrypted credentials**  
-- Optional **2FA (TOTP)**  
-- Encrypted import/export & advanced search
-
-**Tech:** Next.js, TypeScript, MongoDB, TailwindCSS, crypto-js, speakeasy, qrcode  
-
----
-
-### 📚 **Turn-The-Page**
-A MERN-based book review platform.  
-- JWT httpOnly sessions  
-- API caching improved load speed by **35%**  
-- 5-stage **MongoDB Aggregation Pipeline** improving performance **90%+**
-
-**Tech:** React, Node.js, Express, MongoDB, Google Books API, TailwindCSS  
-
----
-
-## 📈 GitHub Stats (Full Deep Integration)
-
-### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishabh794&theme=transparent&hide_border=true" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" /><br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /><br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
 
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+### 🔥 Streak Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rishabh794&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh794&layout=compact&theme=transparent&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=rishabh794&theme=github-dark-blue&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
-### 🏆 GitHub Achievements
+### 📈 GitHub Readme Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabh794&theme=algolia&no-bg=true&no-frame=true&margin-w=5" />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=rishabh794&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="GitHub Stats"
+  />
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh794&layout=compact&theme=github_dark&hide_border=true" 
+    alt="Top Languages"
+  />
 </p>
 
-### 📈 Contribution Graph
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh794&theme=react-dark&hide_border=true" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=rishabh794&theme=algolia&no-frame=true&no-bg=true&margin-w=5" 
+    alt="GitHub Trophies"
+  />
+</p>
+
+### 📉 Contribution Graph
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh794&theme=react-dark&hide_border=true" 
+    alt="Contribution Graph"
+  />
 </p>
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishabh794/rishabh794/output/github-contribution-grid-snake.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/rishabh794/rishabh794/output/github-contribution-grid-snake.svg" 
+    alt="Contribution Snake"
+  />
 </p>
 
----
 
-## 📫 Connect With Me
-- **LinkedIn:** [Rishabh Buchha](https://www.linkedin.com/in/rishabh-buchha-bb997b2a7/)  
-- **GitHub:** [rishabh794](https://github.com/rishabh794)  
-- **Email:** rishabhbuchha123456789@gmail.com  
+## 📖 Quote of the Day
+<p align="center">
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" 
+    alt="Quote of the Day"
+  />
+</p>
 
----
-
-### ⭐ If you like my work, consider giving a star to my repositories!
+<p align="center">
+  ✨ Thanks for visiting — consider dropping a ⭐ on a repo!
+</p>
