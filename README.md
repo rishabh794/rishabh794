@@ -52,11 +52,6 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabh794&theme=github_dark" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishabh794&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
 ### 📉 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh794&theme=github-dark&hide_border=false" />
