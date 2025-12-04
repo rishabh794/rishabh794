@@ -39,45 +39,29 @@
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rishabh794&theme=github-dark-blue&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rishabh794&theme=dark&hide_border=false" />
 </p>
 
 ### 📈 GitHub Readme Stats
 <p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=rishabh794&show_icons=true&theme=github_dark&hide_border=true" 
-    alt="GitHub Stats"
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh794&layout=compact&theme=github_dark&hide_border=true" 
-    alt="Top Languages"
-  />
+  <img src="https://nirzak-github-readme-stats.vercel.app/api?username=rishabh794&show_icons=true&theme=dark&hide_border=false" height="170" />
+  <img src="https://nirzak-github-readme-stats.vercel.app/api/top-langs/?username=rishabh794&layout=compact&theme=dark&hide_border=false" height="170" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=rishabh794&theme=algolia&no-frame=true&no-bg=true&margin-w=5" 
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=rishabh794&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ### 📉 Contribution Graph
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh794&theme=react-dark&hide_border=true" 
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh794&theme=github-dark&hide_border=false" />
 </p>
+
 
 
 ## 🎮 Pacman Eating My Contributions
