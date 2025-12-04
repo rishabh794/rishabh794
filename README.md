@@ -48,8 +48,8 @@
 
 ### 📈 GitHub Readme Stats
 <p align="center">
-  <img src="https://nirzak-github-readme-stats.vercel.app/api?username=rishabh794&show_icons=true&theme=dark&hide_border=false" height="170" />
-  <img src="https://nirzak-github-readme-stats.vercel.app/api/top-langs/?username=rishabh794&layout=compact&theme=dark&hide_border=false" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishabh794&theme=github_dark" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabh794&theme=github_dark" />
 </p>
 
 ### 🏆 GitHub Trophies
