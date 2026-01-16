@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rishabh Buchha 👋</h1>
-<h3 align="center">SDE @ AceInt | Bootcoding Pvt. Ltd.</h3>
+<h3 align="center">Ex-SDE Intern @ AceInt | Bootcoding Pvt. Ltd.</h3>
 
 <p align="center">
   <a href="https://github.com/rishabh794">
@@ -22,7 +22,7 @@
 
 ## 🧑‍💻 About Me
 
-- Software Developer at **AceInt | Bootcoding Pvt. Ltd.**
+- Ex-Software Developer Intern at **AceInt | Bootcoding Pvt. Ltd.**
 - B.Tech CSE @ **DIT University** (GPA: **8.54/10**)  
 - Passionate about **full-stack engineering, security, performance & clean system design**  
 - GSSoC’25 contributor & **2× Hackathon Finalist**  
